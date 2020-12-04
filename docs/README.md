@@ -26,7 +26,7 @@ Libraries and code setup:
 * Download [MultiNFC](https://github.com/quantranfr/MultiNFC)
 * Download [rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix/)
 
-  * Go to the subfolder `examples-api-use` and run `make`; this will generate the `demo` executable that we will use in our example below;
+  * Go to the subfolder `examples-api-use` and run `make`; this will generate the `demo` executable that we will use in our program;
   * Run `sudo setcap 'cap_sys_nice=eip' demo` to be able to run `demo` correctly (no flickering) without `sudo`.
   * Open `/boot/config.txt` in sudo mode and change the line `dtparam=audio=on` to `dtparam=audio=off`;
 
