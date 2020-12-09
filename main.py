@@ -17,11 +17,11 @@ objects = {
 }
 
 solutions = { # from the point of view of an ordinary citizen
-  ("Tái chế", "Túi nylon"): "Dễ dàng tái chế túi nhựa HDPE và PP, hãy đưa cho người thu gom xử lý.",
-  ("Tái chế", "Chai nước"): "Dễ dàng tái chế chai nhựa PET, hãy đưa cho người thu gom xử lý.",
-  ("Tái chế", "Pin"): "Hãy vứt pin bỏ đi vào hộp dành riêng ở các siêu thị, tòa nhà để chúng được xử lý an toàn.",
-  ("Tái sử dụng", "Túi nylon"): "Hãy dùng lại túi nylon thêm ít nhất một lần trước khi vứt đi!",
-  ("Tái sử dụng", "Chai nước"): "Chai nhựa PET có thể được dùng lại một cách sáng tạo trong căn nhà, nhưng đừng dùng lại để uống nước!",
+  ("Tái chế", "Túi nylon"): "Vứt riêng túi nhựa HDPE và PP để tái chế!",
+  ("Tái chế", "Chai nước"): "Đưa chai nhựa PET cho người thu gom để tái chế.",
+  ("Tái chế", "Pin"): "Vứt pin vào hộp dành riêng ở các siêu thị, tòa nhà để tránh ô nhiễm môi trường.",
+  ("Tái sử dụng", "Túi nylon"): "Dùng lại túi nylon thêm ít nhất một lần trước khi vứt!",
+  ("Tái sử dụng", "Chai nước"): "Hãy chế chai nhựa PET thành các vật dụng hữu ích, nhưng đừng dùng lại để uống nước!",
   ("Tái sử dụng", "Pin"): "Hãy dùng pin sạc được!",
   ("Tiết giảm", "Túi nylon"): "Hãy từ chối nhận túi nylon khi đi mua hàng!",
   ("Tiết giảm", "Chai nước"): "Hãy đem chai nước cá nhân khi đi ra ngoài!",
