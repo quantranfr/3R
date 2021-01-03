@@ -41,4 +41,5 @@ Follow these steps:
 
 ## Roadmap
 
+* Make a PCB like [this one](https://github.com/hzeller/rpi-rgb-led-matrix/tree/master/adapter/active-3) to ease connection and convert voltage (3.3V to 5V)
 * Make a second LED matrix line to display user's choices.
